@@ -1,10 +1,12 @@
 # Phanindra Baddula 🏛️
 
-**Enterprise Solution Architect & AI Solutions Leader**  
+**Enterprise Solution Architect & AI Solutions Leader**
 Designing resilient, cloud-native distributed systems, microservices ecosystems, and agentic AI architectures across Banking, Financial Services, and Enterprise EdTech.
 
 [![Website](https://img.shields.io/badge/Portfolio-phanindra.org-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://phanindra.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Phanindra_Baddula-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/phanindrabaddula/)
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@phanindra208)
+[![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/phanindra-baddula/badges/credly)
 [![Email](https://img.shields.io/badge/Contact-Phanindra208@hotmail.com-orange?style=for-the-badge&logo=microsoft-outlook)](mailto:Phanindra208@hotmail.com)
 
 ---
